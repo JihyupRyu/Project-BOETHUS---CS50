@@ -9,7 +9,7 @@ My project requires some of extension library of python. You just need to
 pip install requirements.txt
 ```
 <br>
-If you have an error you don't have "PyAudio" then you need to install that as well.
+If you have an error you don't have "PyAudio" then you need to install that as well
 ```
 pip install PyAudio
 ```
