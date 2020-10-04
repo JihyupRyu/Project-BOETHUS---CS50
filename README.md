@@ -3,7 +3,7 @@ Boethus is a Intelligent Virtual Assistant (IVA) or Intelligent Personal Assista
 I created Boethus to help user to do anything by voice commanding. It helps user to search a keyword and read the summury for you or you can search a keyword in youtube and open it in your web browser. You want to turn off you computer also possible as well.
 <br>
 
-# Installation
+## Installation
 My project requires some of extension library of python. You just need to
 ```
 pip install requirements.txt
@@ -32,5 +32,5 @@ Here is the list of keywords
  
 <br>
 
-# Credits
+## Credits
 * **Jihyup Ryu** - *Initial work* - [Jihyup Ryu](https://github.com/JihyupRyu)
