@@ -10,7 +10,8 @@ pip install requirements.txt
 ```
 <br>
 If you have an error you don't have "PyAudio" then you need to install that as well
-<br>
+
+
 ```
 pip install PyAudio
 ```
